@@ -1,0 +1,27 @@
+body {
+    background-color:rgb(207, 207, 97);
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 40px;
+}
+img {
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+}
+h2{
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+footer{
+    text-align: end
+}
